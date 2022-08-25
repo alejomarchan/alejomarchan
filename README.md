@@ -23,7 +23,7 @@
 ### :man_technologist: Quién soy :
 
 <div id="perfil">
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Me llamo Alejandro Marchán, soy Ingeniero de Sistemas y durante un buen tiempo trabajé en el área de Business Intelligence haciendo y deshaciendo cosas en el Datawarehouse. De ahí tuve un paso un par de años desarrollando Microservicios con Python y luego salté al mundo del Big Data donde estoy en inmerso en estos momentos.
+- :<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Me llamo Alejandro Marchán, soy Ingeniero de Sistemas y durante un buen tiempo trabajé en el área de Business Intelligence haciendo y deshaciendo cosas en el Datawarehouse. De ahí tuve un paso un par de años desarrollando Microservicios con Python y luego salté al mundo del Big Data donde estoy en inmerso en estos momentos.
 
 - :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform, estoy en el área de Producción tumbando el cluster cada vez que puedo .
 
