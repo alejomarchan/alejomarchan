@@ -22,16 +22,17 @@
 
 ### :man_technologist: Quién soy :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Me llamo Alejandro Marchán, soy Ingeniero de Sistemas y durante un buen tiempo trabajé en el área de Business Intelligence. De ahí tuve un paso un par de años desarrollando Microservicios con Python y luego salté al mundo del Big Data.
+<div id="perfil">
+- <img src="https://media.giphy.com /media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Me llamo Alejandro Marchán, soy Ingeniero de Sistemas y durante un buen tiempo trabajé en el área de Business Intelligence haciendo y deshaciendo cosas en el Datawarehouse. De ahí tuve un paso un par de años desarrollando Microservicios con Python y luego salté al mundo del Big Data donde estoy en inmerso en estos momentos.
 
-- :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform.
+- :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform, estoy en el área de Producción tumbando el cluster cada vez que puedo .
 
-- :seedling: Por curiosidad y por las ganas de aprender, he estado metiendo las manos en la parte de Frontend y eso me ha llevado al Fullstack, siempre con Python como almohada.
+- :seedling: Por curiosidad y por las ganas de conitnuar aprendiendo, he estado metiendo las manos en el HTML y ese mundo del Frontend, he llegado al Fullstack, siempre con Python como almohada donde mi nueva aventura está siendo Django.
 
-- :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data y también de Python. Mi nueva aventura está siendo Django.
+- :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data y también de Python.
 
 - :mailbox: Me puedes contactar por mi Linkedin : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/alejomarchan)
-
+</div>
 
 ---
 
