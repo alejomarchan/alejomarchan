@@ -32,7 +32,7 @@
 
 - :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data, sobre todo cosas de Data Science y también metiendo la mano en Python constantemente.
 
-- :mailbox: Acá estoy a la orden, me puedes contactar por mi Linkedin : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/alejomarchan)
+- :mailbox: Acá estoy a la orden y me puedes contactar por mi Linkedin : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/alejomarchan)
 </div>
 
 ---
