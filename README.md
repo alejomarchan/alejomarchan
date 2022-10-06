@@ -26,13 +26,13 @@
 
 - :neckbeard: Me llamo Alejandro Marchán, soy Ingeniero de Sistemas y durante un buen tiempo trabajé en el área de Business Intelligence haciendo y deshaciendo cosas en el Datawarehouse. De ahí tuve un paso un par de años desarrollando Microservicios con Python y luego salté al mundo del Big Data donde estoy en inmerso en estos momentos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform en el área de Producción sumergiéndome en el cluster cada vez que puedo.
+- :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform en el área de Producción sumergiéndome en el cluster a diario.
 
-- :seedling: Por curiosidad y por las ganas de conitnuar aprendiendo, he estado metiendo las manos en el HTML y ese mundo del Frontend, he llegado al Fullstack, siempre con Python como almohada donde mi nueva aventura está siendo Django.
+- :seedling: Por curiosidad y por las ganas de conitnuar aprendiendo, he estado metiendo las manos en el HTML y de ese mundo del Frontend, he llegado al Fullstack, siempre con Python como almohada donde mi nueva aventura está siendo Django.
 
-- :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data, sobre todo cosas de Data Science y también metiendo la mano en Python constantemente.
+- :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data, sobre todo cosas de Data Science y también metiendo la mano en Python constantemente porque desde que lo conocí en el 2017, no he parado de aprenderlo.
 
-- :mailbox: Acá estoy a la orden y me puedes contactar por mi Linkedin : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/alejomarchan)
+- :mailbox: Acá estoy a la orden (alemarchan@gmail.com) y me puedes contactar por mi Linkedin : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/alejomarchan)
 </div>
 
 ---
