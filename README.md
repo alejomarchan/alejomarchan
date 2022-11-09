@@ -28,7 +28,7 @@
 
 - :telescope: Actualmente estoy trabajando como Data Engineer usando Hadoop de Cloudera Data Platform en el área de Producción sumergiéndome en el cluster a diario.
 
-- :seedling: Por curiosidad y por las ganas de conitnuar aprendiendo, he estado metiendo las manos en el HTML y de ese mundo del Frontend, he llegado al Fullstack, siempre con Python como almohada donde mi nueva aventura está siendo Django.
+- :seedling: Por curiosidad y por las ganas de continuar aprendiendo, he estado metiendo las manos en el HTML y de ese mundo del Frontend, he llegado al Fullstack, siempre con Python como almohada donde mi nueva aventura está siendo Django.
 
 - :zap: En mi ratos libres, me pongo a leer y continuar aprendiendo cosas del Big Data, sobre todo cosas de Data Science y también metiendo la mano en Python constantemente porque desde que lo conocí en el 2017, no he parado de aprenderlo.
 
