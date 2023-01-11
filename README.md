@@ -55,7 +55,13 @@
 
 ### :fire: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejomarchan&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejomarchan&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejomarchan&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejomarchan&theme=monokai&utcOffset=-3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejomarchan&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejomarchan&theme=monokai)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejomarchan&theme=monokai&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+
 
 
 ---
